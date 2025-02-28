@@ -1,0 +1,44 @@
+name: micro_dependencies
+description: "A new Flutter package project."
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.5.3
+  flutter: ">=3.0.0"
+
+dependencies:
+  auto_route: ^9.2.2
+  auto_route_generator: ^9.0.0
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.2.1
+  flutter_hooks: ^0.20.5
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.5.3
+  flutter_svg: ^2.0.11
+  geolocator: ^13.0.2
+  get_it: ^8.0.0
+  google_maps_flutter: ^2.10.0
+  hooks_riverpod: ^2.5.4
+  http: ^1.2.2
+  injectable: ^2.5.0
+  intl: any
+  json_annotation: ^4.9.0
+  location: ^6.0.2
+  numberpicker: ^2.1.2
+  path: ^1.9.0
+  rxdart: ^0.28.0
+  shimmer: ^3.0.0
+  slang: ^4.1.0
+  slang_flutter: ^4.1.0
+  sqflite: ^2.4.1
+  uuid: ^4.5.1
+  widget_to_marker: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
